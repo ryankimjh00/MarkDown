@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0c9073b93772861f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fbf0cbc3c4d4236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc0edcd3032181d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2480a486a4ef09ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XlackFE/Diary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "378a3b6a00a36d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef1ff6580ad883e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ae7da5235ae86e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79256a28ffb88fee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21262668bbd1f8de",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07addc2591056c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "e93b7983a4f3a7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf122ef116372ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "XlackFE/Diary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecebd4220e083585",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "XlackFE/Diary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a360618d70648cbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d200bc47fa570749",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "XlackFE/Diary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2480a486a4ef09ea",
+  "lastOpenFiles": [
+    "README.md",
+    "XlackFE/Diary.md",
+    "XlackFE/무제 폴더",
+    "XlackFE"
+  ]
+}
